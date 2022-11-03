@@ -29,7 +29,7 @@
 <img align="left" title="C" alt="C" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" title="C#" alt="C#" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" title="C++" alt="C++" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<br><br><br><h3>Skill :</h3>
+<br><br><br><br><h3>Skill :</h3>
 <img align="left" title="Photoshop" alt="photoshop" width="60px" style="padding-right:10px;" src="https://th.bing.com/th/id/OIP.kzzyMJc6VAxj8nwu8ZMQBAHaHa?pid=ImgDet&w=1024&h=1024&rs=1"/>
 <img align="left" title="Davinci Resolve" alt="davinci-resolve" width="60px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.9b2d28da5f93a4a92eb1c160f4919cae?rik=ZsETF%2bIm8b6y8g&pid=ImgRaw&r=0"/>
 <br><br><br><hr>
