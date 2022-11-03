@@ -1,4 +1,4 @@
-<br><hr>
+<hr>
 <h1 align="center">
     ✞ঔৣ۝ :smiley_cat: Welcome to my GitHub :smiley_cat: ۝ঔৣ✞
     <h2 align="center">
