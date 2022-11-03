@@ -1,5 +1,14 @@
 # :smiley_cat: Welcome to my GitHub.
-**'Mine are currently studying at Rangsit University, Faculty of Engineering, Computer Engineering.(1st-year student)'**
+**'Mine are currently studying at Rangsit University, Faculty of Engineering, Computer Engineering. (1st-year student)'**
+<p align="left">
+    <a href="https://www.facebook.com/yuki.ri.5201"><img src="https://www.freepik.com/free-icon/facebook_15297765.htm#query=ig&position=19&from_view=search&track=sph" 
+        alt="Facebook" title="MY Facebook">
+    </a>
+    a href="https://www.instagram.com/ffiirrsstt_x/?hl=en"><img src="https://www.freepik.com/free-icon/instagram_14841632.htm#query=ig&position=1&from_view=search&track=sph" 
+        alt="IG" title="MY IG">
+    </a>
+</p>
+
 <!--
 **panyach77/panyach77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
