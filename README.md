@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# :smiley_cat: Welcome to my GitHub.
+**'Mine are currently studying at Rangsit University, Faculty of Engineering, Computer Engineering.(1st-year student)'**
 <!--
 **panyach77/panyach77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
